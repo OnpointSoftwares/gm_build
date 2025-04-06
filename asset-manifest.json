@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36fcc215.css",
+    "main.js": "/static/js/main.38d7c538.js",
+    "static/media/office.jpg": "/static/media/office.471ec70fac81da082d93.jpg",
+    "static/media/universe.jpg": "/static/media/universe.6cac3c09be99f28fdb43.jpg",
+    "static/media/advance-materials.jpg": "/static/media/advance-materials.7cb861482579a3aa689d.jpg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/chamber.jpg": "/static/media/chamber.cea796de9f554aeaa280.jpg",
+    "static/media/logo.jpeg": "/static/media/logo.c89fe69249de161acaea.jpeg",
+    "static/media/universe-bg.jpg": "/static/media/universe-bg.c030b7cab10cb4bd5021.jpg",
+    "static/media/nairobi.jpeg": "/static/media/nairobi.7c80584d27640c39e925.jpeg",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/centurygothic.ttf": "/static/media/centurygothic.b194aa2bd524e2c973f7.ttf",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/core-value.jpeg": "/static/media/core-value.a5806999de0a9f00c599.jpeg",
+    "static/media/slide1.jpeg": "/static/media/slide1.c690def7c5012b366ef2.jpeg",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/Review-Us-Sticker-300x300.png": "/static/media/Review-Us-Sticker-300x300.18c09b88e7856a3ac044.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/instagram.png": "/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/index.html",
+    "main.36fcc215.css.map": "/static/css/main.36fcc215.css.map",
+    "main.38d7c538.js.map": "/static/js/main.38d7c538.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36fcc215.css",
+    "static/js/main.38d7c538.js"
+  ]
+}
